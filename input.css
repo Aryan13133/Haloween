@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+#a{
+
+    background-image: url('https://marketplace.canva.com/EAFrWiFpof4/1/0/1600w/canva-orange-spooky-halloween-desktop-wallpaper-2VpU8y-CW7I.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+#o{
+    margin: 400px;
+    width: 450px;
+    height: 400px;
+} 
